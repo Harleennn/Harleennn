@@ -1,52 +1,51 @@
-## 💫 About Me  
-👋 Hey there, I'm **Harleen**!  
-🎓 A Computer Science undergrad with a creative soul and a passion for **tech, design, and impact**.  
-💡 Currently diving deep into **UX/UI Design**, **Machine Learning**, and **full-stack development**.
+👋 Hi, I'm Harleen Saini
 
----
+🎓 Computer Science Undergraduate | 📊 Aspiring Data Analyst | 🤖 AI/ML Enthusiast
 
-## 🚀 What I Do
+I’m a data-driven problem solver focused on transforming raw data into actionable insights.
+Currently building strong expertise in Power BI, Excel, SQL, and Python, while applying Machine Learning to real-world use cases.
 
-- 💻 Build web apps with **Python, Django, PostgreSQL, and Docker**
-- 🎨 Learn and apply **UX/UI design** principles to make user-first digital products
-- 🧠 Explore the power of **AI & Deep Learning** (CNNs, LLMs, transformers)
-- 🔍 Solve real-world problems through internships, research, and side projects
-- 🛠️ Tinker, learn, design, and repeat — with curiosity as my compass
+🚀 Core Expertise
 
----
+📊 Data Visualization & Reporting – Power BI dashboards, business & financial reporting
 
-## 💼 Projects I'm Proud Of
+🗄️ Data Analysis & Querying – SQL, Excel (advanced formulas, pivot tables)
 
-- 🧮 **Digit Classifier using CNN (MNIST)** – Trained and deployed with Gradio  
-- 📄 **Job Opportunity Aggregator for Retired Professionals** – Django, PDF scraping, LLM-based summaries  
-- 🎨 **UX/UI Redesign Challenges** – Reimagining real-world app interfaces in Figma *(WIP)*  
-- 📊 **Property Price Prediction** – Regression model + web app with Flask  
-- 📘 **AI Report** – An academic report explaining DL, MLPs, and CNNs for beginners  
+🐍 Data Processing – Python (Pandas, NumPy, Matplotlib)
 
----
+🤖 Machine Learning – Regression, classification, CNN fundamentals
 
-## 🔍 Currently Exploring
+📈 Insight-driven thinking with a strong analytical mindset
 
-- 🎯 UX/UI design systems and workflows  
-- 📦 Docker + Celery + Redis for automation  
-- 🧠 LLMs and prompt engineering  
-- 📱 Responsive, accessible frontend with Tailwind + JavaScript  
-- 📈 Portfolio building + applying for software & design roles  
+💼 Key Projects
 
----
+Interactive Power BI Dashboards
+Built dynamic dashboards for financial and business performance tracking.
 
-## 🌟 Fun Facts
+Job Opportunity Aggregator (Django + LLMs)
+Developed a backend system that scrapes job PDFs, extracts insights, and generates AI-based summaries.
 
-- 💬 I believe **consistency > perfection** — and that's how I’m designing my dream life  
-- 💪 Doing the **“75 Hard Challenge: UX/UI edition”** to stay confident, calm & creative  
-- 📚 Self-taught in many fields, but always open to mentorship and collaboration  
-- 🎧 A mix of calm walks, bold dreams, and a love for creating beautiful digital experiences  
+Digit Classifier (CNN - MNIST)
+Trained and deployed a deep learning model using TensorFlow.
 
----
+Property Price Prediction Model
+Built a regression-based prediction system with web integration.
 
-## 💻 Tech Stack
+🛠 Technical Skills
 
-`Python` `Django` `PostgreSQL` `Docker` `BeautifulSoup`  
-`HTML5` `CSS3` `JavaScript` `Tailwind` `Figma`  
-`Git` `VS Code` `Gradio` `HuggingFace`  
-`Pandas` `NumPy` `Matplotlib` `scikit-learn` `TensorFlow`  
+Analytics & BI:
+Power BI Excel SQL
+
+Programming & Data:
+Python Pandas NumPy Matplotlib
+
+AI / ML:
+scikit-learn TensorFlow Machine Learning Deep Learning
+
+Backend & Tools:
+Django Flask PostgreSQL Git GitHub
+
+🎯 Career Focus
+
+Actively seeking Data Analyst / Business Intelligence / AI-Driven Analytics roles
+Open to internships and full-time opportunities where I can contribute, learn, and grow.
